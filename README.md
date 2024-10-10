@@ -37,7 +37,27 @@ mayor de ellos.
 
  #9-Escribir una funcion sum() y una función multip() que sumen y multipliquen respectivamente
 todos los números de una lista. Por ejemplo: sum([1,2,3,4]) debería devolver 10 y multip([1,2,3,4])
-debería devolver 24.
+debería devolver 24
+![image](https://github.com/user-attachments/assets/610a487b-7f84-4bb8-9f5f-3f7721082e9c)
+![image](https://github.com/user-attachments/assets/4b47f01d-a43f-4b81-a6be-36e6fe6fffab)
+
+#10- Escribir una función que tome un carácter y devuelva True si es una vocal, de lo contrario
+devuelve False.
+![image](https://github.com/user-attachments/assets/448568fa-63e9-4553-84ae-5b08dee47163)
+![image](https://github.com/user-attachments/assets/19402fcc-dcde-4cf3-ac83-49d174b96e6a)
+
+#11-Que saque la distancia dirigida entre dos puntos
+![image](https://github.com/user-attachments/assets/4fe05017-ba1f-4e9d-95a5-44770804df02)
+![image](https://github.com/user-attachments/assets/de5a3d80-decb-4a1c-bd1e-350e20580de8)
+
+
+
+
+
+
+
+
+.
 
 
 
